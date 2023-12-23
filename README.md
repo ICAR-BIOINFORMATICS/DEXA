@@ -1,5 +1,5 @@
 # DEXA
-A Novel Python-Integrated Model for Advancing the Deciphering of  Differential Gene Expression Patterns
+A Python-based Tool for the Advanced Deciphering of Differential Gene Expression Patterns
 
 DEXA (Differential Gene Expression Analysis) is a Python-based tool designed for the robust analysis of RNA-seq data, facilitating the identification of differentially expressed genes. This user manual provides a step-by-step guide on how to set up and utilize DEXA effectively.
 
